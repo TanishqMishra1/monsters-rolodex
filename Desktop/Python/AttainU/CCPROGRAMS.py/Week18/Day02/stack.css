@@ -1,0 +1,30 @@
+.main{
+    width: 40%;
+    height: 76%;
+    margin: 10% auto;
+    background-color: rgba(66, 65, 65, 0.733);
+}
+h1{
+    text-align: center;
+    color: brown;
+    padding-top: 5%;
+}
+.function{
+    height: 80%;
+    text-align: center;
+    
+}
+input{
+    width: 80%;
+    height: 10%;
+    margin: 2% 0;
+}
+input:focus{
+    outline: 2px solid rgba(23, 23, 112, 0.74);
+}
+#push{
+    background-color: rgba(19, 184, 74, 0.575);
+}
+#pop{
+    background-color: rgba(218, 70, 44, 0.801);
+}
